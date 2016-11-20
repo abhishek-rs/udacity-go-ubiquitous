@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_text_size">35dp</dimen>
+    <dimen name="time_y_offset">85dp</dimen>
+
+    <dimen name="date_text_size">15dp</dimen>
+    <dimen name="date_y_offset">105dp</dimen>
+
+    <dimen name="temperature_text_size">22dp</dimen>
+    <dimen name="weather_y_offset">160dp</dimen>
+</resources>
